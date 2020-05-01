@@ -1,0 +1,227 @@
+
+#myBtn:hover {
+    background-color: #555;
+}
+
+#myBtn {
+    display: block;
+    width: 58px;
+    position: absolute;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    bottom: 280px;
+    right: 255px;
+    background: #FFFFFF;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    border-radius: 100px;
+}
+
+#myBtn:hover{
+    background: #7F5FC2 !important;
+}
+
+#myBtn:hover {
+    background-color: #555;
+}
+
+
+.advantages{
+    position: relative;
+    margin-top: 50px;
+}
+.advantages .orange{
+    position: absolute;
+    top: 645px;
+    right: 404px;
+}
+.advantages .green{
+    position: absolute;
+    right: 230px;
+    top: 200px;
+}
+.advantages .pink {
+    position: absolute;
+    left: 380px;
+    top: 262px;
+}
+.advantages .blue{
+    position: absolute;
+    top: 620px;
+    left: 280px;
+}
+
+.devices{
+    position: relative;
+    margin-top: 70px;
+}
+
+.devices .orange{
+    position: absolute;
+    right: 0;
+    top: 290px;
+}
+.devices .pink{
+    position: absolute;
+    right: 315px;
+    top: 376px;
+    width: 32px;
+}
+.devices .blue{
+    position: absolute;
+    right: -12px;
+    top: 870px;
+}
+
+.devices .green{
+    top: 690px;
+    position: absolute;
+    right: 250px;
+    width: 200px;
+}
+
+.safety{
+    margin-bottom: 50px;
+}
+
+.safety.orange {
+    position: absolute;
+    top: 624px;
+    right: 300px;
+
+}
+.safety .blue {
+    position: absolute;
+    top: 160px;
+    right: 240px;
+    left: auto;
+}
+.safety .green {
+    position: absolute;
+    top: 190px;
+    left: 240px;
+}
+.safety .pink {
+    position: absolute;
+    left: 400px;
+    top: 615px;
+}
+
+.moblie{
+    margin-top: 90px;
+}
+.moblie .blue{
+    top: 660px;
+    left: 200px;
+    position: absolute;
+}
+.moblie .pink {
+     position: absolute;
+     right: 340px;
+     top: 210px;
+ }
+.moblie .green {
+    position: absolute;
+    right: 220px;
+    top: 660px;
+}
+.moblie .orange {
+    position: absolute;
+    top: 270px;
+    left: 410px;
+}
+
+.desctop {
+    margin-top: 30px;
+}
+.desctop .blue{
+    left: auto;
+    top: 140px;
+    right: 210px;
+}
+.desctop .pink{
+    right: auto;
+    left: 424px;
+    top: 520px;
+}
+.desctop .green{
+    right: auto;
+    top: 198px;
+    left: 290px;
+}
+.desctop .orange{
+    display: none;
+}
+
+.instruction .blue{
+    position: absolute;
+    top: 455px;
+    right: 100px;
+}
+.instruction .pink{
+    width: 81px;
+    position: absolute;
+    left: 10px;
+    top: 420px;
+}
+.instruction .green{
+    width: 44px;
+    position: absolute;
+    left: 300px;
+    top: 80px;
+}
+.instruction .orange{
+    position: absolute;
+    right: 420px;
+    top: 130px;
+}
+
+
+
+.footer-form .blue{
+    width: 80px;
+    top: 500px;
+    position: absolute;
+    left: 100px;
+}
+.footer-form .pink{
+    position: absolute;
+    right: 140px;
+    top: 190px;
+}
+.footer-form .green{
+    position: absolute;
+    top: 800px;
+    right: 100px;
+}
+.footer-form .orange{
+    position: absolute;
+    top: 700px;
+    left: 140px;
+}
+
+
+.modal-dialog .blue{
+    position: absolute;
+    right: -110px;
+    top: 30px;
+}
+.modal-dialog .pink{
+    position: absolute;
+    left: -30px;
+    top: 130px;
+}
+.modal-dialog .green{
+    position: absolute;
+    left: -65px;
+    top: 490px;
+}
+.modal-dialog .orange{
+    position: absolute;
+    right: -202px;
+    top: 500px;
+}

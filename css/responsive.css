@@ -1,0 +1,33 @@
+
+@media (max-width: 576px) {
+
+}
+
+@media (min-width: 577px) , (max-width: 768px) {
+
+}
+@media (max-width: 991px) {
+
+}
+
+@media (min-width: 769px) , (max-width: 991px) {
+
+}
+
+@media (min-width: 992px) , (max-width: 1269px) {
+
+}
+
+@media (min-width: 1270px) {
+
+
+}
+.dropdown-menu{
+    background: #0D8FF7;
+}
+.dropdown-item{
+    color: black !important;
+
+}
+
+
